@@ -27,6 +27,6 @@
 
 #define RAND_MAX 2147483646
 
-const char* ssid     = "Garistovi_1";
-const char* password = "aztozjuk%_%";
+const char* ssid     = "crappy_network";
+const char* password = "KURZAMON";
 const char* aes_key = "notmyactualkeyduhiaintthatdumb:)";
