@@ -21,8 +21,8 @@
 #define PWR_OFF 100
 #define CMD_EXECUTED 102
 
-#define RST_PIN 2         //D3  GREEN
-#define PWR_PIN 0         //D4  YELLOW
+#define RST_PIN 2         //D4  GREEN
+#define PWR_PIN 0         //D3  YELLOW
 #define V5_SENSE_PIN 14   //D5  BROWN
 
 #define RAND_MAX 2147483646
